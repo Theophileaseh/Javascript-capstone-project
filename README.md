@@ -25,7 +25,7 @@ This is an API-based App. A Microverse JavaScript Capstone project. It is about 
 
 ## Getting Started
 
-Use this url to clone the repo on your terminal: https://github.com/white3d/JavaScript-Capstone.git
+Use this url to clone the repo on your terminal: https://github.com/Theophileaseh/Javascript-capstone-project.git
 
 After cloning the repo, change dir to the project folder then run the following:
 
@@ -38,20 +38,20 @@ Hurray!!! You are now good to go.
 
 👤 **Author1**
 
+[Portfolio Website](https://theophileaseh.github.io/)
+
+- GitHub: [@Theophileash](https://github.com/Theophileaseh)
+- Twitter: [@NwachanT](https://twitter.com/NwachanT)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nwachan-theophile)
+
+
+👤 **Author2**
+
 [Portfolio Website](https://edwardodhiambo.me/My-Portfolio/)
 
 - GitHub: [@whit3d](https://github.com/white3d)
 - Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
 - LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
-
-
-👤 **Author2**
-
-[Portfolio Website](https://theophileaseh.github.io/)
-
-- GitHub: [@Theophileash](https://github.com/Theophileaseh)
-- Twitter: [@NwachanT](https://twitter.com/NwachanT)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/nwachan-theophile-342274172)
 
 
 ## 🤝 Contributing
